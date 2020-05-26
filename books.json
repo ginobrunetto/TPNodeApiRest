@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "name": "Coding projects for kids",
+        "authorId": "1"
+    },
+    {
+        "id": "2",
+        "name": "Carpentry for dummys",
+        "authorId": "2"
+    },
+    {
+        "id": "3",
+        "name": "Brief history of time",
+        "authorId": "3"
+    },
+    {
+        "id": "4",
+        "name": "English grammar book",
+        "authorId": "2"
+    }    
+]
