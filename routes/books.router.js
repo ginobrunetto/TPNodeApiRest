@@ -10,7 +10,7 @@ router.get("/books", (req, res) => {
     _.each(books, (book) =>
       _.each(authors, (author) => {
         if (author.id == book.authorId) {
-          book.authorFullName = author.name + " " + author.lastname;
+          book.author = author;
         }
       })
     );
